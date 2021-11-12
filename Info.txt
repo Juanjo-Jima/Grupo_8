@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Juan Jima 
-Clase practica en GitHub
-=======
-12/11/2021 programación 1
->>>>>>> 00a7e5b68d17279c013d47af63ae8af0c3c7e505
+12/11/21
